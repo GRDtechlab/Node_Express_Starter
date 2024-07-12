@@ -11,7 +11,7 @@
 - install node packages. [Got to your project main folder and run below command]
 
 ```git
-    npm init
+    npm install
 ```
 
 **Thank you.**
